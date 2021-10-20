@@ -1,2 +1,3 @@
 # Dictionary-analysis
-This project help analyze dictionary with tons and nasalization. It's created for my beautiful wife.
+This project helps to analyze dictionary with tones and nasalization.
+It's created for my beautiful wife.
